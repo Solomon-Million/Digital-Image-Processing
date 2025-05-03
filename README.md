@@ -1,5 +1,6 @@
 # Digital-Image-Processing
-Sparse Coding and Autoencoders
+Sparse Coding and Autoencoders:
+
 Abstract—In This paper I explored the transformative
 potential of sparse coding and autoencoders in the realm of
 digital image processing. These techniques have demonstrated
